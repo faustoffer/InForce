@@ -37,8 +37,8 @@ To install the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/faustoffer/InForce.git
+   cd inForce
 
 2. Install the dependencies:
     npm install
