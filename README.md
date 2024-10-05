@@ -41,13 +41,13 @@ To install the project, follow these steps:
    cd inForce
 
 2. Install the dependencies:
+   ```bash
     npm install
 
 ## Running Tests
 
 To run the Cypress tests, use the following command:
 
-    bash
     npx cypress open
 
 This will open the Cypress Test Runner, allowing you to run tests interactively.
